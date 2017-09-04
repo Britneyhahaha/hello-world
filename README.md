@@ -1,4 +1,2 @@
 # hello-world
-Open a door to a new world. Have fun!
-First day and first try.
-Try to figure out what a a pull request.
+If I delete a line and add something eles, will the pull request work?
